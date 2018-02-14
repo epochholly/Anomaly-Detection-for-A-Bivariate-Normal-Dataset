@@ -7,4 +7,4 @@ Use a fraud sample data set with two normal variables. The objective is to ident
 - FP: false positive
 - FN: false negative
 
-- 60% of the data are used for estimating ![img](http://latex.codecogs.com/svg.latex?%5Cepsilon). The rest is used to test it. The accuracy is up to 98%.
+60% of the data are used for estimating ![img](http://latex.codecogs.com/svg.latex?%5Cepsilon). The rest is used to test it. The accuracy is up to 98%.
